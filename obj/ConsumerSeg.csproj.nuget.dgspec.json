@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Buiu\\Desktop\\Safra\\POC - Notification\\ConsumerSeg\\ConsumerSeg.csproj": {}
+    "C:\\Users\\Buiu\\Desktop\\ConsumerSeg\\ConsumerSeg.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Buiu\\Desktop\\Safra\\POC - Notification\\ConsumerSeg\\ConsumerSeg.csproj": {
+    "C:\\Users\\Buiu\\Desktop\\ConsumerSeg\\ConsumerSeg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Buiu\\Desktop\\Safra\\POC - Notification\\ConsumerSeg\\ConsumerSeg.csproj",
+        "projectUniqueName": "C:\\Users\\Buiu\\Desktop\\ConsumerSeg\\ConsumerSeg.csproj",
         "projectName": "ConsumerSeg",
-        "projectPath": "C:\\Users\\Buiu\\Desktop\\Safra\\POC - Notification\\ConsumerSeg\\ConsumerSeg.csproj",
+        "projectPath": "C:\\Users\\Buiu\\Desktop\\ConsumerSeg\\ConsumerSeg.csproj",
         "packagesPath": "C:\\Users\\Buiu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Buiu\\Desktop\\Safra\\POC - Notification\\ConsumerSeg\\obj\\",
+        "outputPath": "C:\\Users\\Buiu\\Desktop\\ConsumerSeg\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Buiu\\AppData\\Roaming\\NuGet\\NuGet.Config",

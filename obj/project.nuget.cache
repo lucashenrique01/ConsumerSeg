@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7IrfIjKOcrs0BCqXpdWT+D6ECZhFlWM+XxwuuarKOOCI9HOduX11jPwPIeqFC3ytzeTWhp3pG9uy/VHeE/AeWA==",
+  "dgSpecHash": "43ZusYM2Qisfwfx66ELbUG5BijWILhZ7innhJ8YOzO2FF3adzti8So38c1iJ0sRLV55m+FY+kiiesry+BPV5XA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Buiu\\Desktop\\Safra\\POC - Notification\\ConsumerSeg\\ConsumerSeg.csproj",
+  "projectFilePath": "C:\\Users\\Buiu\\Desktop\\ConsumerSeg\\ConsumerSeg.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Buiu\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\Buiu\\.nuget\\packages\\confluent.kafka\\1.4.0\\confluent.kafka.1.4.0.nupkg.sha512",

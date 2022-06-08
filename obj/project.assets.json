@@ -3388,11 +3388,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Buiu\\Desktop\\Safra\\POC - Notification\\ConsumerSeg\\ConsumerSeg.csproj",
+      "projectUniqueName": "C:\\Users\\Buiu\\Desktop\\ConsumerSeg\\ConsumerSeg.csproj",
       "projectName": "ConsumerSeg",
-      "projectPath": "c:\\Users\\Buiu\\Desktop\\Safra\\POC - Notification\\ConsumerSeg\\ConsumerSeg.csproj",
+      "projectPath": "C:\\Users\\Buiu\\Desktop\\ConsumerSeg\\ConsumerSeg.csproj",
       "packagesPath": "C:\\Users\\Buiu\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Buiu\\Desktop\\Safra\\POC - Notification\\ConsumerSeg\\obj\\",
+      "outputPath": "C:\\Users\\Buiu\\Desktop\\ConsumerSeg\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Buiu\\AppData\\Roaming\\NuGet\\NuGet.Config",
